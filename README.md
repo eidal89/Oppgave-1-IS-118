@@ -9,7 +9,7 @@ Det er mulig å bli bedre til å kommunisere. En viktig del av kommunikasjon er 
 
 ***Respekt og uenigheter***
 
-Det er viktig at man kan kommunisere med mennesker i ulike posisjoner og roller. Forskjeller i makt og status kan gjøre det krevende for alle å føle seg likeverdig.Når det er mange personer i ulike roller i en gruppe, øker sannsynligheten for uenigheter. Det å være uenige er ikke negativt men gruppen bør ha rom for ulike synspunkter. Prosjektlederen kunne derfor legge til rette for at alle i gruppen kan utrykke ulike meninger uten å være redde for negative reaksjoner. Hvis alle alltid er enige eller unigheter blir holdt tilbake, kommer gruppen ikke frem og mulige viktige sider ved saken blir kanskje ikke tatt opp. (Gjøsund & Huseby, 2015).
+Det er viktig at man kan kommunisere med mennesker i ulike posisjoner og roller. Forskjeller i makt og status kan gjøre det krevende for alle å føle seg likeverdig.Når det er mange personer i ulike roller i en gruppe, øker sannsynligheten for uenigheter. Det å være uenige er ikke negativt men gruppen bør ha rom for ulike synspunkter. Prosjektlederen kunne derfor legge til rette for at alle i gruppen kan uttrykke ulike meninger uten å være redde for negative reaksjoner. Hvis alle alltid er enige eller uenigheter blir holdt tilbake, kommer gruppen ikke frem og mulige viktige sider ved saken blir kanskje ikke tatt opp. (Gjøsund & Huseby, 2015).
 
 ***Tydelig informasjon og forventninger***
 
