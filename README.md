@@ -85,7 +85,7 @@ For å håndtere handlingspresset bør du også vurdere om en handling faktisk e
 Rådet blir derfor å planlegge nok til å skape retning, men ikke så mye at planleggingen hindrer handling og tilpasning. Usikkerhet og endringer er en naturlig del av det å starte en ny virksomhet. Ved å kombinere en overordnet plan med løpendevurderinger og justeringer kan du håndtere tidspresset, unngå planleggingsfellen og samtidig beholde nødvendig fleksibilitet.
 
 
-
+### Sikring av god kommunikasjon
 
  ***God kommunikasjon***
 
@@ -105,9 +105,6 @@ Erling har også ansvar for å sørge for at informasjonen i teamet er tydelig o
 
 Humor kan gjøre kommunikasjonen lettere og redusere spenninger. Det kan forbedre likhet og fellesskapsfølelse mellom de som kommuniserer, men dette forutsetter at disse menneskene har omtrent samme sans for humor. Ironi, når vi sier noe annet enn hva vi mener, kan også fungere som en måte å føle seg mer komfortabel og avslappet på i en gruppe. Erling bør være oppmerksom på hvordan humor blir brukt i gruppen og unngå humor som kan oppleves som krenkende eller ekskluderende. Det er viktig å ta hensyn til at alle i gruppen kan ha ulik sans for humor og ulike grenser for hva de synes er passende. (Gjøsund & Huseby, 2015).
 
-***Konklusjon***
-
-For å sikre god og effektiv kommunikasjon i teamet bør Erling legge til rette for at alle får mulighet til å delta og bli hørt. Aktiv lytting, respekt for ulike meninger, tydelig informasjon og bevisst bruk av humor kan bidra til et bedre samarbeid. Ved å være oppmerksom på hvordan teammedlemmene kommuniserer med hverandre, kan Erling bidra til at teamet arbeider mot et felles mål.
 
 ***Referanser:***
 
