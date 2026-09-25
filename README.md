@@ -59,7 +59,9 @@ Med utgangspunkt i de ulike momentene nevnt i avsnittene over, blir vårt forsla
         </ul>
     <li>Åpne opp for innspill, tanker og diskusjon</li>
     <li>Sett av god tid til mingling - her får gruppedeltakerne mulighet og tid til å utveksle erfaringer fra tidligere prosjekt, dele tanker om det kommende prosjektet, og generelt etablere relasjoner og tillit til hverandre.</li>
-
+    </ul>
+    
+    
 ### 3. Rammer for relasjonelle kontrakter
 I et prosjekt som utviklingen av den digitale medborgerportalen er det viktig at avtalen mellom prosjekteier og prosjektleder ikke bare regulerer prosjektets formelle rammer. Tid, kostnader og kvalitet er sentrale styringsfaktorer, men et prosjekt er også en temporær organisasjon hvor resultatet avhenger av hvordan menneskene i prosjektet samarbeider. Jacobsen skiller blant annet mellom oppgavearbeid, som handler om de konkrete oppgavene som skal utføres, og teamarbeid, som handler om de sosiale prosessene og samspillet mellom deltakerne. En god prosjektkontrakt bør derfor ta hensyn til begge deler.
 
@@ -115,4 +117,31 @@ Jacobsen, D. I. (2016). *Engangsorganisasjonen: Organisering og ledelse av prosj
 Nordic Coach & NLP Academy. (n.d.). *Hva er kommunikasjon: Definisjon, typer kommunikasjon og hvorfor kommunikasjon er viktig.* https://nocna.no/studier/karriere-og-ledelse/hva-er-kommunikasjon/
 
 Rajkumar, S. (2010). *Art of communication in project management.* Project Management Institute. https://www.pmi.org/learning/library/effective-communication-better-project-management-6480
+
+
+
+## Del 2: Egenevaluering av gruppekontrakt/samarbeid
+
+
+### 1. Hensiktsmessighet og etterlevelse
+
+Inngangen til kontraktarbeidet handlet i stor grad om å skape relasjoner og tanker om egne ambisjoner. Vi stilte alle med like tanker og motivasjon for studiet, og etterlevelsen er tilfreds her. Vi ser at vi som gruppe i stor grad klarer å fordele oppgaver, jobbe hver for oss, og levere inn i god tid før frist. 
+
+I kontrakten skrev vi at vi skulle tildele lederansvar til hver enkelt oppgave. Det har ikke blitt fulgt opp. Underveis i prosjektet, og semesteret for øvrig, har vi opplevd at dette ikke har vært nødvendig.  Oppgavene har blitt fordelt oss imellom på en hensiktmessig og god måte. I tildelingen av oppgaver har vi tatt utgangspunkt i gruppemedlemmenes egne ønsker, og samtidig tilpasset oss hverandre når det har vært behov for det. Vi opplever også at oppgavene vi har hatt fram til nå i dette semesteret har vært små og naturlig delt opp. På bakgrunn av dette har lederrollen forsvunnet, uten at dette verken har blitt uttalt eller diskutert i gruppa. Vi er enige om å fortsette fordeling og felles lederskap av gruppeoppgavene på samme måte framover. 
+
+
+
+### 2.Svakheter og rom for forbedring
+
+Vi ble enige om å bruke Messenger som kommunikasjonsplattform, og opprettet en felles chat for daglig kommunikasjon. Vi opplever at den faglige verbale kommunikasjonen fungerer svært godt. Vi opplever at den konstruktive kritikken har vært objektiv, og blir godt tatt imot av alle. Samtidig ser vi et forbedringspotensial på kommunikasjonen når vi ikke er sammen, blant annet å følge opp meldinger som blir sendt i Messenger. Dette gjelder særlig forhåndsavtalte gruppemøter. Det er viktig at alle gir beskjed om at meldingen er lest og om de kommer/ikke kommer. Dette handler om forutsigbarhet for gruppa. 
+
+I kontrakten skrev vi at det er viktig å møte opp til avtalt tid. Her er det rom for forbedringspotensial. Det handler om å respektere andres tid, og faktisk gi beskjed dersom man ser at man er forsinket eller ikke kan delta likevel.
+
+
+
+### 3. Erfaringer og råd for fremtidig prosjektarbeid
+
+Når vi leser kontrakten vår i etterkant, ser vi at den består av en god del vage, svulstige og flyvende ord og uttrykk. Vi ser absolutt viktigheten av å konkretisere i mye større grad, og vil ta med oss dette videre i de neste oppgaveprosjektene vi får. Da særlig i forhold til kommunikasjon, tilbakemeldinger og konsekvenser ved å ikke møte opp i tide, ikke levere inn oppgaver i tide, ol.
+
+Kontrakten bærer preg av særlig fokus på faglig samarbeid, mens fokuset på det relasjonelle (sosialt og trivsel) har fått mindre plass. Vi ser at dette er noe vi må ta tak i og jobbe videre med som gruppe. 
 
